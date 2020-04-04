@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Only-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="myle_IndexPage" transform="translate(-25.000000, -356.000000)">
+            <g id="Group-10" transform="translate(9.000000, 357.000000)">
+                <g id="Group-7" transform="translate(17.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-12" stroke="#FFFFFF" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="38" height="38" rx="7"></rect>
+                    <g id="add" transform="translate(6.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M13,0 C5.832,0 0,5.8315 0,13 C0,20.1685 5.832,26 13,26 C20.168,26 26,20.1685 26,13 C26,5.8315 20.168,0 13,0 Z M13,25 C6.3835,25 1,19.6165 1,13 C1,6.3835 6.3835,1 13,1 C19.6165,1 25,6.3835 25,13 C25,19.6165 19.6165,25 13,25 Z" id="Shape"></path>
+                        <path d="M19.5185185,12.7777778 L13.9814815,12.7777778 L13.9814815,7.48148148 C13.9814815,7.21522222 13.7657778,7 13.5,7 C13.2342222,7 13.0185185,7.21522222 13.0185185,7.48148148 L13.0185185,12.7777778 L7.48148148,12.7777778 C7.2157037,12.7777778 7,12.993 7,13.2592593 C7,13.5255185 7.2157037,13.7407407 7.48148148,13.7407407 L13.0185185,13.7407407 L13.0185185,19.5185185 C13.0185185,19.7847778 13.2342222,20 13.5,20 C13.7657778,20 13.9814815,19.7847778 13.9814815,19.5185185 L13.9814815,13.7407407 L19.5185185,13.7407407 C19.7842963,13.7407407 20,13.5255185 20,13.2592593 C20,12.993 19.7842963,12.7777778 19.5185185,12.7777778 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

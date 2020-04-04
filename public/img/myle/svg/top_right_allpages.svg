@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="414px" height="618px" viewBox="0 0 414 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="138.282884 89.6972457 0.338541164 89.6972457 69.3107125 0.181474468 138.282884 89.6972457"></polyline>
+        <polygon id="path-3" points="0 0.23364936 344.878354 0.23364936 344.878354 356.25744 0 356.25744"></polygon>
+        <polyline id="path-5" points="68.5835826 89.1735821 68.5681647 89.1735821 0 1.08659368 0 0.579363158 137.533341 0.579363158 137.540279 0.588571579 68.5835826 89.1735821"></polyline>
+        <polygon id="path-7" points="0 0.316417021 137.534112 0.316417021 137.534112 89.8461479 0 89.8461479"></polygon>
+        <polyline id="path-9" points="0 89.3498074 0 0.309437234 68.1008166 0.309437234 68.1069415 0.316417021 0 89.3498074"></polyline>
+        <linearGradient x1="-13.2775097%" y1="-33.2932969%" x2="54.1079367%" y2="55.9447619%" id="linearGradient-11">
+            <stop stop-color="#F9F5F2" offset="0%"></stop>
+            <stop stop-color="#B6B3B1" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-12" points="0 0 68.1061759 0 68.1061759 527.594525 0 527.594525"></polygon>
+        <polyline id="path-14" points="68.0985197 89.3467053 0 89.3467053 0 0.323396809 68.0985197 89.3467053"></polyline>
+        <linearGradient x1="-201.721269%" y1="49.7116474%" x2="100.001124%" y2="49.7116474%" id="linearGradient-16">
+            <stop stop-color="#0D2233" offset="0%"></stop>
+            <stop stop-color="#0D2233" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-17" points="0 0.657747633 206.972003 0.657747633 206.972003 446.218465 0 446.218465"></polygon>
+        <polygon id="path-19" points="0 0.593402553 413.389421 0.593402553 413.389421 268.112872 0 268.112872"></polygon>
+        <polygon id="path-21" points="0 0.65708234 206.986683 0.65708234 206.986683 178.744135 0 178.744135"></polygon>
+        <polygon id="path-23" points="68.4784061 89.9617021 -1.42108547e-14 1.05559135 -3.25575582e-15 0.517279787 137.508672 0.517279787 137.500193 0.528137234 137.510985 0.542096809 68.6378791 89.9617021"></polygon>
+        <linearGradient x1="10.0066617%" y1="85.583375%" x2="10.0066617%" y2="100.014875%" id="linearGradient-25">
+            <stop stop-color="#21445D" offset="0%"></stop>
+            <stop stop-color="#0D2233" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-26" points="69.2440577 89.9617021 0.335456507 0.528137234 0.343939315 0.517279787 138.298307 0.517279787 138.289824 0.528137234 138.300621 0.542096809 69.4028157 89.9617021"></polygon>
+        <linearGradient x1="30.1448463%" y1="85.583375%" x2="30.1448463%" y2="100.014875%" id="linearGradient-28">
+            <stop stop-color="#21445D" offset="0%"></stop>
+            <stop stop-color="#0D2233" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-29" points="69.7194296 89.8469234 69.7194296 89.8469234 138.722447 0.338907447 138.712422 0.32417234 138.720134 0.313314894 0.765766233 0.313314894 0.757283425 0.32417234 69.7194296 89.8469234"></polyline>
+        <linearGradient x1="50.0002795%" y1="-8.66190839e-05%" x2="50.0002795%" y2="99.9999134%" id="linearGradient-31">
+            <stop stop-color="#21445D" offset="0%"></stop>
+            <stop stop-color="#0D2233" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-32" points="0 88.9745632 0 0.405409355 68.7027825 0.405409355 68.6942438 0.417036774 68.7051113 0.430989677 0 88.9745632"></polyline>
+        <linearGradient x1="-1.06633224%" y1="0.000875204579%" x2="-1.06633224%" y2="101.044994%" id="linearGradient-34">
+            <stop stop-color="#41AB8A" offset="0%"></stop>
+            <stop stop-color="#28705E" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-35" points="0.682698649 89.1689779 0.682698649 89.1689779 69.2084797 0.600082105 0.682698649 89.1689779"></polyline>
+        <polyline id="path-37" points="138.622967 89.1689779 0.687107466 89.1689779 69.6554229 0.600082105 138.622967 89.1689779"></polyline>
+        <polyline id="path-39" points="0.682698649 89.1689779 0.65817973 89.1689779 0.659712162 89.1682105 69.1962203 0.584734737 69.2084797 0.600082105 0.682698649 89.1689779"></polyline>
+        <polyline id="path-41" points="119.390128 25.1652351 138.652272 0.16596383 0.691734452 0.16596383 69.6723886 89.691817 119.390128 25.1652351"></polyline>
+        <polyline id="path-43" points="0 0.466094681 68.4644844 89.9617021 0 89.9617021 0 0.466094681"></polyline>
+    </defs>
+    <g id="Only-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.0697684152">
+        <g id="myle_IndexPage" transform="translate(-1026.000000, 0.000000)">
+            <g id="Group-12" transform="translate(1233.000000, 309.000000) rotate(-180.000000) translate(-1233.000000, -309.000000) translate(1026.000000, 0.000000)">
+                <g id="Group-4" transform="translate(137.000000, 439.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-3"></g>
+                    <polyline id="Fill-2" mask="url(#mask-2)" points="138.282884 89.6972457 0.338541164 89.6972457 69.3107125 0.181474468 138.282884 89.6972457"></polyline>
+                </g>
+                <g id="Group-13" transform="translate(0.000000, 261.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-9"></g>
+                    <polyline id="Fill-8" fill="#41AB8A" mask="url(#mask-4)" points="68.6713637 178.298366 137.722532 267.315688 137.738744 267.315688 206.789912 178.298366 206.782193 178.288342 68.6783113 178.288342 68.6713637 178.298366"></polyline>
+                    <polyline id="Fill-10" fill="#24394A" mask="url(#mask-4)" points="206.779105 356.33995 206.781421 356.343805 344.878354 356.343805 275.838765 267.341135 275.827957 267.326484 206.779105 356.33995"></polyline>
+                    <polyline id="Fill-11" fill="#41AB8A" mask="url(#mask-4)" points="-69.4417811 0.23364936 -69.4479568 0.24213168 -0.39601616 89.2609956 -0.381348895 89.2609956 68.6713637 0.24213168 68.664416 0.23364936 -69.4417811 0.23364936"></polyline>
+                    <polyline id="Fill-12" fill="#22445D" mask="url(#mask-4)" points="137.723304 89.2609956 68.6713637 0.24213168 -0.381348895 89.2609956 137.723304 89.2609956"></polyline>
+                </g>
+                <g id="Group-16" transform="translate(0.000000, 350.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-15"></g>
+                    <polyline id="Fill-14" mask="url(#mask-6)" points="68.5835826 89.1735821 68.5681647 89.1735821 0 1.08659368 0 0.579363158 137.533341 0.579363158 137.540279 0.588571579 68.5835826 89.1735821"></polyline>
+                </g>
+                <g id="Group-19" transform="translate(0.000000, 82.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-18"></g>
+                    <polyline id="Fill-17" fill="#41AB8A" mask="url(#mask-8)" points="68.5766446 0.316417021 -0.38236469 89.8461479 137.534112 89.8461479 68.5766446 0.316417021"></polyline>
+                </g>
+                <g id="Group-22" transform="translate(0.000000, 82.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="Clip-21"></g>
+                    <polyline id="Fill-20" fill="url(#linearGradient-11)" mask="url(#mask-10)" points="0 89.3498074 0 0.309437234 68.1008166 0.309437234 68.1069415 0.316417021 0 89.3498074"></polyline>
+                </g>
+                <g id="Group-26">
+                    <mask id="mask-13" fill="white">
+                        <use xlink:href="#path-12"></use>
+                    </mask>
+                    <g id="Clip-24"></g>
+                    <polyline id="Fill-23" fill="#41AB8A" mask="url(#mask-13)" points="-0.385105068 -6.19943351 -68.8717923 82.7610889 68.1008166 82.7610889 -0.385105068 -6.19943351"></polyline>
+                    <polyline id="Fill-25" fill="#22445D" mask="url(#mask-13)" points="68.0985197 438.627837 -68.8694955 438.627837 -68.8771516 438.637855 -68.8771516 438.638626 -0.393526849 527.594525 -0.377448904 527.594525 68.1061759 438.637855 68.0985197 438.627837"></polyline>
+                </g>
+                <g id="Group-29" transform="translate(0.000000, 350.000000)">
+                    <mask id="mask-15" fill="white">
+                        <use xlink:href="#path-14"></use>
+                    </mask>
+                    <g id="Clip-28"></g>
+                    <polyline id="Fill-27" fill="url(#linearGradient-16)" mask="url(#mask-15)" points="68.0985197 89.3467053 0 89.3467053 0 0.323396809 68.0985197 89.3467053"></polyline>
+                </g>
+                <g id="Group-33" transform="translate(0.000000, 171.000000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g id="Clip-31"></g>
+                    <polyline id="Fill-30" fill="#0D2333" mask="url(#mask-18)" points="-138.629865 0.657747633 -138.635274 0.664695672 -69.5189182 89.786412 -69.5119641 89.794904 -69.5057827 89.786412 68.7277012 89.786412 -0.389427097 0.664695672 -0.394835806 0.657747633 -138.629865 0.657747633"></polyline>
+                    <polyline id="Fill-32" fill="#41AB8A" mask="url(#mask-18)" points="206.967366 446.304929 206.972003 446.304929 206.969685 446.301069 137.857192 357.185529 68.7431547 446.304929 206.967366 446.304929"></polyline>
+                </g>
+                <polyline id="Fill-34" fill="#162E41" points="137.99383 172 138.00617 172 207 83.0069379 206.994601 83 69.0053991 83 69 83.0069379 137.99383 172"></polyline>
+                <g id="Group-38" transform="translate(0.000000, 349.000000)">
+                    <mask id="mask-20" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <g id="Clip-36"></g>
+                    <polyline id="Fill-35" fill="#22445D" mask="url(#mask-20)" points="294.733024 154.086863 275.47757 178.993544 413.389421 178.993544 344.433496 89.7984957 294.733024 154.086863"></polyline>
+                    <polyline id="Fill-37" fill="#22445D" mask="url(#mask-20)" points="344.433496 89.7984957 344.425016 89.7884512 275.46909 0.593402553 206.513165 89.7884512 206.508539 89.7938598 206.512394 89.7884512 206.496976 89.7884512 206.504685 89.7984957 275.46061 178.993544 137.53257 178.993544 68.5766446 89.7984957 -0.380052 178.993544 -0.396240828 178.993544 -0.388531862 179.004362 -69.3436866 268.19941 68.5673938 268.19941 68.5766446 268.210227 68.5851244 268.19941 137.540279 179.004362 206.493892 268.195547 275.447505 179.004362 275.458298 179.019042 275.46909 179.004362 275.476799 178.994317 275.47757 178.994317 275.47757 178.993544 344.433496 89.7984957"></polyline>
+                </g>
+                <polyline id="Fill-39" fill="#24394A" points="206.992287 439 207.007713 439 276 350.009251 275.993058 350 138.007713 350 138 350.009251 206.992287 439"></polyline>
+                <polyline id="Fill-40" fill="#0D2333" points="68.49 439.4935 68.5 439.5065 68.51 439.4935 68.49 439.4935"></polyline>
+                <polyline id="Fill-41" fill="#22445D" points="282.998456 247 283 247 259 216 235 247 282.998456 247"></polyline>
+                <polyline id="Fill-42" fill="#22445D" points="201.997695 64 202 64 164.5 15 127 64 201.997695 64"></polyline>
+                <polyline id="Fill-43" fill="#0D2333" points="206.507 82.4955 206.493 82.4955 206.5 82.5045 206.507 82.4955"></polyline>
+                <polyline id="Fill-44" fill="#0D2333" points="413.5 528.507 413.511 528.493 413.489 528.493 413.5 528.507"></polyline>
+                <polyline id="Fill-45" fill="#0D2333" points="344.51 439.4935 344.49 439.4935 344.5 439.5065 344.51 439.4935"></polyline>
+                <polyline id="Fill-46" fill="#0D2333" points="68.507 82.4955 68.493 82.4955 68.5 82.5045 68.507 82.4955"></polyline>
+                <polyline id="Fill-47" fill="#0D2333" points="275.509 349.494 275.491 349.494 275.5 349.506 275.509 349.494"></polyline>
+                <g id="Group-51" transform="translate(0.000000, 171.000000)">
+                    <mask id="mask-22" fill="white">
+                        <use xlink:href="#path-21"></use>
+                    </mask>
+                    <g id="Clip-49"></g>
+                    <polyline id="Fill-48" fill="#0D2333" mask="url(#mask-22)" points="206.974321 89.6955956 68.7277012 89.6955956 68.7346553 89.704079 137.850238 178.73488 137.857192 178.744135 137.864919 178.73488 206.980502 89.704079 206.986683 89.6955956 206.973548 89.6955956 206.974321 89.6955956"></polyline>
+                    <polyline id="Fill-50" fill="#22445D" mask="url(#mask-22)" points="-0.383245714 0.65708234 -0.389427097 0.664023351 68.7277012 89.6955956 137.851011 0.65708234 -0.383245714 0.65708234"></polyline>
+                </g>
+                <polyline id="Fill-52" fill="#41AB8A" points="137.983807 172 69 261 207 261 137.983807 172"></polyline>
+                <g id="Group-55" transform="translate(0.000000, 527.000000)">
+                    <mask id="mask-24" fill="white">
+                        <use xlink:href="#path-23"></use>
+                    </mask>
+                    <g id="Clip-54"></g>
+                    <polygon id="Fill-53" fill="url(#linearGradient-25)" mask="url(#mask-24)" points="0 89.9617021 685.069555 89.9617021 685.069555 -530.46383 0 -530.46383"></polygon>
+                </g>
+                <g id="Group-58" transform="translate(137.000000, 527.000000)">
+                    <mask id="mask-27" fill="white">
+                        <use xlink:href="#path-26"></use>
+                    </mask>
+                    <g id="Clip-57"></g>
+                    <polygon id="Fill-56" fill="url(#linearGradient-28)" mask="url(#mask-27)" points="-137.26726 89.9617021 548.040308 89.9617021 548.040308 -530.46383 -137.26726 -530.46383"></polygon>
+                </g>
+                <g id="Group-61" transform="translate(68.000000, 82.000000)">
+                    <mask id="mask-30" fill="white">
+                        <use xlink:href="#path-29"></use>
+                    </mask>
+                    <g id="Clip-60"></g>
+                    <polyline id="Fill-59" fill="url(#linearGradient-31)" mask="url(#mask-30)" points="69.7194296 89.8469234 69.7194296 89.8469234 138.722447 0.338907447 138.712422 0.32417234 138.720134 0.313314894 0.765766233 0.313314894 0.757283425 0.32417234 69.7194296 89.8469234"></polyline>
+                </g>
+                <g id="Group-64" transform="translate(0.000000, 260.000000)">
+                    <mask id="mask-33" fill="white">
+                        <use xlink:href="#path-32"></use>
+                    </mask>
+                    <g id="Clip-63"></g>
+                    <polyline id="Fill-62" fill="url(#linearGradient-34)" mask="url(#mask-33)" points="0 88.9745632 0 0.405409355 68.7027825 0.405409355 68.6942438 0.417036774 68.7051113 0.430989677 0 88.9745632"></polyline>
+                </g>
+                <g id="Group-67" transform="translate(206.000000, 350.000000)">
+                    <mask id="mask-36" fill="white">
+                        <use xlink:href="#path-35"></use>
+                    </mask>
+                    <g id="Clip-66"></g>
+                    <polyline id="Fill-65" mask="url(#mask-36)" points="0.682698649 89.1689779 0.682698649 89.1689779 69.2084797 0.600082105 0.682698649 89.1689779"></polyline>
+                </g>
+                <g id="Group-70" transform="translate(206.000000, 350.000000)">
+                    <mask id="mask-38" fill="white">
+                        <use xlink:href="#path-37"></use>
+                    </mask>
+                    <g id="Clip-69"></g>
+                    <polyline id="Fill-68" mask="url(#mask-38)" points="138.622967 89.1689779 0.687107466 89.1689779 69.6554229 0.600082105 138.622967 89.1689779"></polyline>
+                </g>
+                <g id="Group-73" transform="translate(206.000000, 350.000000)">
+                    <mask id="mask-40" fill="white">
+                        <use xlink:href="#path-39"></use>
+                    </mask>
+                    <g id="Clip-72"></g>
+                    <polyline id="Fill-71" mask="url(#mask-40)" points="0.682698649 89.1689779 0.65817973 89.1689779 0.659712162 89.1682105 69.1962203 0.584734737 69.2084797 0.600082105 0.682698649 89.1689779"></polyline>
+                </g>
+                <g id="Group-76" transform="translate(206.000000, 439.000000)">
+                    <mask id="mask-42" fill="white">
+                        <use xlink:href="#path-41"></use>
+                    </mask>
+                    <g id="Clip-75"></g>
+                    <polyline id="Fill-74" mask="url(#mask-42)" points="119.390128 25.1652351 138.652272 0.16596383 0.691734452 0.16596383 69.6723886 89.691817 119.390128 25.1652351"></polyline>
+                </g>
+                <polyline id="Fill-77" fill="#41AB8A" points="227.5 251 186.003864 303.995411 186 304 269 304 227.5 251"></polyline>
+                <g id="Group-80" transform="translate(0.000000, 527.000000)">
+                    <mask id="mask-44" fill="white">
+                        <use xlink:href="#path-43"></use>
+                    </mask>
+                    <g id="Clip-79"></g>
+                    <polyline id="Fill-78" mask="url(#mask-44)" points="0 0.466094681 68.4644844 89.9617021 0 89.9617021 0 0.466094681"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

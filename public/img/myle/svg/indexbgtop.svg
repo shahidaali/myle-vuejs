@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="225px" height="157px" viewBox="0 0 225 157" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M86.1510185,107.965868 L390.877582,26.459745 C404.213182,22.9158595 417.911109,30.8243555 421.509823,44.1452636 L482.518777,271.429123 C486.119723,284.758422 478.211263,298.470367 464.876202,302.049848 C464.869044,302.051769 464.861884,302.053687 464.848981,302.034132 L160.122418,383.540255 C146.786818,387.08414 133.088891,379.175645 129.490177,365.854736 L68.4812225,138.570877 C64.8802767,125.241578 72.7887373,111.529633 86.1237981,107.950152 C86.1309565,107.948231 86.1381157,107.946313 86.1510185,107.965868 Z" id="path-1"></path>
+        <filter x="-2.2%" y="-2.5%" width="104.4%" height="105.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Only-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="myle_IndexPage" transform="translate(-1215.000000, 0.000000)">
+            <g id="Group-12" transform="translate(1177.000000, -237.000000)">
+                <g id="Rectangle-Copy-5">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#145143" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M24.1510185,87.9658681 L328.877582,6.45974497 C342.213182,2.91585952 355.911109,10.8243555 359.509823,24.1452636 L420.518777,251.429123 C424.119723,264.758422 416.211263,278.470367 402.876202,282.049848 C402.869044,282.051769 402.861884,282.053687 402.848981,282.034132 L98.1224176,363.540255 C84.7868182,367.08414 71.0888905,359.175645 67.4901765,345.854736 L6.48122255,118.570877 C2.8802767,105.241578 10.7887373,91.5296328 24.1237981,87.9501525 C24.1309565,87.948231 24.1381157,87.9463127 24.1510185,87.9658681 Z" id="Rectangle-Copy-6" fill="#B3CF38" opacity="0.349237351"></path>
+            </g>
+        </g>
+    </g>
+</svg>

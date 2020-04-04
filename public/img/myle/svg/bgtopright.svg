@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="362px" height="218px" viewBox="0 0 362 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="108" y="72" width="422" height="330" rx="25"></rect>
+        <filter x="-3.6%" y="-4.5%" width="107.1%" height="109.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Only-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="myle_LoginPage" transform="translate(-1078.000000, 0.000000)">
+            <g id="Group-2" transform="translate(1044.000000, -237.000000)">
+                <g id="Rectangle-Copy-3" transform="translate(319.000000, 237.000000) rotate(-15.000000) translate(-319.000000, -237.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#145143" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-Copy-4" fill="#B3CF38" opacity="0.349237351" transform="translate(247.000000, 214.000000) rotate(-15.000000) translate(-247.000000, -214.000000) " x="36" y="49" width="422" height="330" rx="25"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
