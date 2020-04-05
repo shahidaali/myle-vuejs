@@ -1,5 +1,5 @@
 import config from '@/config/config.js';
-import axios from '@/axios/axios';
+import { axios, axiosHelper } from '@/axios';
 
 export const userService = {
     login,
@@ -21,7 +21,7 @@ function login(username, password) {
 		socialType: "",
 		socialId: ""
     })
-    .then(handleResponse)
+    .then(axiosHelper.handleResponse)
     .then(user => {
     	console.log(user);
         // login successful if there's a jwt token in the response
@@ -43,7 +43,7 @@ function register(user) {
         body: JSON.stringify(user)
     };
 
-    return fetch(`${config.apiUrl}/users/register`, requestOptions).then(handleResponse);
+    return fetch(`${config.apiUrl}/users/register`, requestOptions).then(axiosHelper.handleResponse);
 }
 
 function getAll() {
@@ -52,7 +52,7 @@ function getAll() {
         headers: authHeader()
     };
 
-    return fetch(`${config.apiUrl}/users`, requestOptions).then(handleResponse);
+    return fetch(`${config.apiUrl}/users`, requestOptions).then(axiosHelper.handleResponse);
 }
 
 
@@ -62,7 +62,7 @@ function getById(id) {
         headers: authHeader()
     };
 
-    return fetch(`${config.apiUrl}/users/${id}`, requestOptions).then(handleResponse);
+    return fetch(`${config.apiUrl}/users/${id}`, requestOptions).then(axiosHelper.handleResponse);
 }
 
 function update(user) {
@@ -72,7 +72,7 @@ function update(user) {
         body: JSON.stringify(user)
     };
 
-    return fetch(`${config.apiUrl}/users/${user.id}`, requestOptions).then(handleResponse);
+    return fetch(`${config.apiUrl}/users/${user.id}`, requestOptions).then(axiosHelper.handleResponse);
 }
 
 // prefixed function name with underscore because delete is a reserved word in javascript
@@ -82,7 +82,7 @@ function _delete(id) {
         headers: authHeader()
     };
 
-    return fetch(`${config.apiUrl}/users/${id}`, requestOptions).then(handleResponse);
+    return fetch(`${config.apiUrl}/users/${id}`, requestOptions).then(axiosHelper.handleResponse);
 }
 
 function handleResponse(response) {

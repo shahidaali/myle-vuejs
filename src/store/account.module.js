@@ -2,7 +2,8 @@ import Vue from 'vue'
 import { userService } from '@/services';
 import router from '@/router'
 
-const user = JSON.parse(localStorage.getItem('user'));
+const userSession = localStorage.getItem('user');
+const user = (userSession && userSession !== undefined) ? JSON.parse(userSession) : null;
 const state = user
     ? { status: { loggedIn: true }, user }
     : { status: {}, user: null };

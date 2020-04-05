@@ -1,0 +1,14 @@
+.read-only {
+    pointer-events: none;
+    opacity: .6;
+}
+.custom-control {
+    padding-left: 2rem;
+}
+.custom-control-label::before,
+.custom-control-label::after {
+    left: -2rem;
+}
+.vue-js-switch {
+    margin-top: 5px;
+}

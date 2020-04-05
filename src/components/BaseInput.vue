@@ -6,7 +6,8 @@
        {'focused': focused},
        {'has-label': label || $slots.label},
        {'has-success': valid === true},
-       {'has-danger': valid === false}
+       {'has-danger': valid === false},
+       {'floating-label-wrap': floatingLabel}
        ]">
         <slot name="label">
             <label v-if="label" class="form-control-label" :class="labelClasses">
@@ -23,17 +24,27 @@
           </slot>
         </span>
         </div>
+        <slot name="field">
         <slot v-bind="slotData">
-            <input
-                    :value="value"
-                    v-on="listeners"
-                    v-bind="$attrs"
-                    class="form-control"
-                    :class="[
-                     {'is-valid': valid === true},
-                     {'is-invalid': valid === false}, inputClasses]"
-                    aria-describedby="addon-right addon-left">
+              <input 
+                  :value="value"
+                  v-on="listeners"
+                  v-bind="$attrs"
+                  class="form-control"
+                  v-bind:placeholder="floatingLabel"
+                  v-bind:id="inputId"
+                  :class="[
+                   {'is-valid': valid === true},
+                   {'is-invalid': valid === false},
+                   {'floating-label-field': floatingLabel},
+                   {'floating-label-field--s3': floatingLabel},
+                   inputClasses]"
+                  aria-describedby="addon-right addon-left">
+          </slot>
         </slot>
+        <label v-if="floatingLabel" class="floating-label" :class="floatingLabelClasses" :for="inputId">
+            <span>{{floatingLabel}}</span>
+        </label>
         <div v-if="addonRightIcon || $slots.addonRight" class="input-group-append">
           <span class="input-group-text">
               <slot name="addonRight">
@@ -67,6 +78,10 @@ export default {
       type: String,
       description: "Input label (text before input)"
     },
+    floatingLabel: {
+      type: String,
+      description: "Input label (text before input)"
+    },
     error: {
       type: String,
       description: "Input error (below input)"
@@ -78,6 +93,14 @@ export default {
     inputClasses: {
       type: String,
       description: "Input css classes"
+    },
+    inputId: {
+      type: String,
+      description: "Input id"
+    },
+    floatingLabelClasses: {
+      type: String,
+      description: "floatingLabel css classes"
     },
     value: {
       type: [String, Number],
@@ -135,6 +158,9 @@ export default {
       this.focused = false;
       this.$emit("blur", value);
     }
+  },
+  mounted() {
+    console.log(!!this.$slots[ 'field' ] || !!this.$scopedSlots[ 'field' ]);
   }
 };
 </script>

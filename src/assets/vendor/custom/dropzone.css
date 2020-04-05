@@ -1,0 +1,76 @@
+body .dropzone {
+    min-height: 20px;
+}
+.dropzone-previews .dz-preview {
+    position: relative;
+    padding: 16px;
+    margin: 10px 0px 5px;
+    background: #f7f7f7;
+    color: #4d4d4c;
+    display: flex;
+    font-size: 0.75rem;
+    font-weight: 100;
+}
+.dropzone-previews .dz-preview.dz-file-preview .dz-image  {
+  display: none;
+}
+.dropzone-previews .dz-preview .dz-image {
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+}
+.dropzone-previews .dz-preview .dz-image img {
+    max-width: 100%;
+}
+.dropzone-previews .dz-error-mark, .dropzone-previews .dz-success-mark {
+    display: none;
+}
+.dropzone-previews a.dz-remove {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    font-size: 0px;
+}
+.dropzone-previews a.dz-remove:after {
+    content: "";
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    content: "\f2ed";
+    font-size: 14px;
+    background: #fafafa;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #e3e3e3;
+    color: #777;
+    cursor: pointer;
+}
+.dropzone-previews .dz-details {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+}
+.dropzone-previews .dz-filename {
+    font-weight: bold;
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    direction: rtl;
+    display: inline-block;
+}
+.dropzone-previews .dz-error-message {
+    position: absolute;
+    bottom: 5px;
+    left: 65px;
+    color: #ff0000;
+    font-size: 0.7rem;
+}

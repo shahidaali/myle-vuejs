@@ -1,0 +1,123 @@
+.floating-label-wrap {
+    position: relative;
+}
+.floating-label-field {
+    border-width: 0;
+    color: rgba(44, 62, 80, 0.75);
+}
+
+.floating-label-field:focus {
+    outline: 0;
+    -webkit-box-shadow: 0;
+    box-shadow: 0;
+}
+
+.floating-label-field::-webkit-input-placeholder {
+    color: transparent;
+    opacity: 0;
+}
+
+.floating-label-field:-ms-input-placeholder {
+    color: transparent;
+    opacity: 0;
+}
+
+.floating-label-field::-ms-input-placeholder {
+    color: transparent;
+    opacity: 0;
+}
+
+.floating-label-field::placeholder {
+    color: transparent;
+    opacity: 0;
+}
+
+.floating-label-field + .floating-label,
+.floating-label-field + .error + .floating-label,
+.floating-label-field + .bootstrap-datetimepicker-widget + .floating-label,
+.floating-label-field + .bootstrap-datetimepicker-widget + .error + .floating-label {
+    position: absolute;
+    top: 1px;
+    left: 6px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: text;
+}
+
+.floating-label-field {
+    position: relative;
+}
+
+.floating-label-field {
+    /*border: 1px solid rgba(128, 128, 128, 0.5);*/
+    border: 1px solid #E0E0E0;
+    background-color: #fff;
+    color: rgba(128, 128, 128, 1);
+    opacity: 1;
+    border-radius: 5px;
+}
+
+.floating-label-field + .floating-label,
+.floating-label-field + .error + .floating-label,
+.floating-label-field + .bootstrap-datetimepicker-widget + .floating-label,
+.floating-label-field + .bootstrap-datetimepicker-widget + .error + .floating-label {
+    -webkit-transition: opacity .25s ease-in-out, -webkit-transform .25s;
+    transition: opacity .25s ease-in-out, -webkit-transform .25s;
+    -o-transition: transform .25s, opacity .25s ease-in-out;
+    transition: transform .25s, opacity .25s ease-in-out;
+    transition: transform .25s, opacity .25s ease-in-out, -webkit-transform .25s;
+    -webkit-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    transform-origin: 0 0;
+    opacity: 1;
+    background-color: #fff;
+    padding: .64rem 0 .64rem .75rem;
+    border-radius: 5px;
+    color: rgba(128, 128, 128, .5);
+    font-size: 16px;
+}
+
+.floating-label-field:focus,
+.floating-label-field:not(:placeholder-shown) {
+    box-shadow: 0 0 10px 100px #fff inset;
+    border-color: #28816D;
+    opacity: 1;
+}
+
+.floating-label-field:focus + .floating-label,
+.floating-label-field:not(:placeholder-shown) + .floating-label,
+.floating-label-field:focus + .error + .floating-label,
+.floating-label-field:not(:placeholder-shown) + .error + .floating-label,
+.floating-label-field:focus + .bootstrap-datetimepicker-widget + .floating-label,
+.floating-label-field:not(:placeholder-shown) + .bootstrap-datetimepicker-widget + .floating-label,
+.floating-label-field:focus + .bootstrap-datetimepicker-widget + .error + .floating-label,
+.floating-label-field:not(:placeholder-shown) + .bootstrap-datetimepicker-widget + .error + .floating-label {
+    -webkit-transform: translate(1%, -1px) scale(0.8);
+    -ms-transform: translate(1%, -1px) scale(0.8);
+    transform: translate(1%, -1px) scale(0.8);
+    padding-top: 0;
+    padding-bottom: 0;
+    color: #28816D;
+}
+
+.floating-label-field:focus + .floating-label span,
+.floating-label-field:not(:placeholder-shown) + .floating-label span,
+.floating-label-field:focus + .error + .floating-label span,
+.floating-label-field:not(:placeholder-shown) + .error + .floating-label span,
+.floating-label-field:focus + .bootstrap-datetimepicker-widget + .floating-label span,
+.floating-label-field:not(:placeholder-shown) + .bootstrap-datetimepicker-widget + .floating-label span,
+.floating-label-field:focus + .bootstrap-datetimepicker-widget + .error + .floating-label span,
+.floating-label-field:not(:placeholder-shown) + .bootstrap-datetimepicker-widget + .error + .floating-label span {
+    display: block;
+    margin-top: -9px;
+}
+
+.floating-label-input:valid:not(:placeholder-shown) {
+    border-color: rgba(46, 213, 115, 0.3);
+}
+
+.floating-label-input:invalid {
+    border-color: rgba(255, 71, 87, 0.3);
+}

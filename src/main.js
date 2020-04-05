@@ -21,7 +21,10 @@ import router from './router'
 import './registerServiceWorker'
 import ArgonDashboard from './plugins/argon-dashboard'
 import { store } from './store';
-import axios from './axios';
+import { axios } from './axios';
+import $ from "jquery";
+window.$ = $;
+window.jQuery = $;
 
 Vue.config.productionTip = false
 
@@ -45,3 +48,18 @@ new Vue({
   axios,
   render: h => h(App)
 }).$mount('#app')
+
+
+// jQuery.extend(true, jQuery.fn.datetimepicker.defaults, {
+//     icons: {
+//       time: 'far fa-clock',
+//       date: 'far fa-calendar',
+//       up: 'fas fa-arrow-up',
+//       down: 'fas fa-arrow-down',
+//       previous: 'fas fa-chevron-left',
+//       next: 'fas fa-chevron-right',
+//       today: 'fas fa-calendar-check',
+//       clear: 'far fa-trash-alt',
+//       close: 'far fa-times-circle'
+//     }
+// });

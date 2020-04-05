@@ -1,0 +1,25 @@
+.nav-tabs .nav-item {
+    width: 110px;
+    line-height: 28px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.nav-tabs .nav-item .nav-link {
+    color: #28816D;
+    border: 1px solid #28816D;
+    padding: 0px;
+}
+
+.nav-tabs .nav-item:first-child .nav-link {
+    border-radius: 20.5px 0 0 20.5px;
+}
+
+.nav-tabs .nav-item:nth-of-type(2) .nav-link {
+    border-radius: 0 20.5px 20.5px 0;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+    background-color: #28816D;
+    color: #FFFFFF;
+}

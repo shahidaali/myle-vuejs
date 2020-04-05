@@ -19,6 +19,7 @@ import Modal from "../components/Modal";
 import TabPane from "../components/Tabs/TabPane";
 import Tabs from "../components/Tabs/Tabs";
 import SvgIcon from "../components/SvgIcon";
+import FloatingLabel from "../components/FloatingLabel";
 
 export default {
   install(Vue) {
@@ -43,5 +44,6 @@ export default {
     Vue.component(TabPane.name, TabPane);
     Vue.component(Tabs.name, Tabs);
     Vue.component(SvgIcon.name, SvgIcon);
+    Vue.component(FloatingLabel.name, FloatingLabel);
   }
 };
